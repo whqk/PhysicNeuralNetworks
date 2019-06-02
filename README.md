@@ -1,5 +1,15 @@
 # PhysicNeuralNetworks
 
+应用数学分析
+
+https://www.icourse163.org/learn/BUAA-1205799845?tid=1206108282#/learn/content
+
+
+人工智慧与大数据结合的新数学与维积分
+1. 数据驱动的形式数学公式推导
+2. 加减乘除运算的类神经网路
+3. 数据驱动的维积分推导
+
 
 Statistical Mechanics: Algorithms and Computations  https://www.classcentral.com/course/coursera-statistical-mechanics-algorithms-and-computations-1299
 
