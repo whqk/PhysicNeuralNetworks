@@ -1,5 +1,40 @@
 # PhysicNeuralNetworks
+
+
+The RNN provides a universal representation
+of recurrent equations as discretized versions of the differential
+equations, and therefore the update rules of its
+hidden state can be interpreted as machine's understanding
+of the physical laws.[25, 26]
+
+[25] C. Ma, J. Wang, and W. E, ArXiv e-prints (2018),
+1808.04258.
+
+https://arxiv.org/abs/1808.04258
+
+Model Reduction with Memory and the Machine Learning of Dynamical Systems
+Chao Ma, Jianchun Wang, Weinan E
+(Submitted on 10 Aug 2018)
+The well-known Mori-Zwanzig theory tells us that model reduction leads to memory effect. For a long time, modeling the memory effect accurately and efficiently has been an important but nearly impossible task in developing a good reduced model. In this work, we explore a natural analogy between recurrent neural networks and the Mori-Zwanzig formalism to establish a systematic approach for developing reduced models with memory. Two training models-a direct training model and a dynamically coupled training model-are proposed and compared. We apply these methods to the Kuramoto-Sivashinsky equation and the Navier-Stokes equation. Numerical experiments show that the proposed method can produce reduced model with good performance on both short-term prediction and long-term statistical properties.
+Subjects:	Machine Learning (cs.LG); Computational Physics (physics.comp-ph); Machine Learning (stat.ML)
+Cite as:	arXiv:1808.04258 [cs.LG]
+ 	(or arXiv:1808.04258v1 [cs.LG] for this version)
+
+Mori-Zwanzig theory  https://www.math.nyu.edu/faculty/kleeman/SLecture11.pdf Mori-Zwanzig equation
+
+Lecture 10. Near equilibrium theory I  https://www.math.nyu.edu/faculty/kleeman/SLecture10.pdf
+
+
+
+
+[26] L. Banchi, E. Grant, A. Rocchetto, and S. Severini,
+ArXiv e-prints (2018), 1808.01374.
+
+
 https://arxiv.org/abs/1901.11103
+
+
+
 Emergent Quantum Mechanics in an Introspective Machine Learning Architecture
 Ce Wang, Hui Zhai, Yi-Zhuang You
 (Submitted on 30 Jan 2019 (v1), last revised 5 May 2019 (this version, v3))
