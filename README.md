@@ -1,6 +1,9 @@
 # PhysicNeuralNetworks
 
 
+Statistical Mechanics: Algorithms and Computations  https://www.classcentral.com/course/coursera-statistical-mechanics-algorithms-and-computations-1299
+
+
 The RNN provides a universal representation
 of recurrent equations as discretized versions of the differential
 equations, and therefore the update rules of its
