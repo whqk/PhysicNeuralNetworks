@@ -10,6 +10,12 @@ https://www.icourse163.org/learn/BUAA-1205799845?tid=1206108282#/learn/content
 2. 加减乘除运算的类神经网路
 3. 数据驱动的维积分推导
 
+Data-driven constructive induction in AQ17PRE: A method and experiments
+
+https://www.academia.edu/9842587/Data-driven_constructive_induction_in_AQ17PRE_A_method_and_experiments?auto=download
+
+The Metaphysics of Big Data: Problem of Induction
+https://www.crayondata.com/blog/metaphysics-big-data-problem-induction/
 
 An AI Physicist Can Derive the Natural Laws of Imagined Universes
 Teaching an AI system the tricks physicists use to understand the real world produces an extraordinarily…
