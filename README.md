@@ -11,6 +11,10 @@ https://www.icourse163.org/learn/BUAA-1205799845?tid=1206108282#/learn/content
 3. 数据驱动的维积分推导
 
 
+An AI Physicist Can Derive the Natural Laws of Imagined Universes
+Teaching an AI system the tricks physicists use to understand the real world produces an extraordinarily…
+
+
 Statistical Mechanics: Algorithms and Computations  https://www.classcentral.com/course/coursera-statistical-mechanics-algorithms-and-computations-1299
 
 
