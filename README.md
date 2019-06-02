@@ -1,4 +1,10 @@
 # PhysicNeuralNetworks
+https://arxiv.org/abs/1901.11103
+Emergent Quantum Mechanics in an Introspective Machine Learning Architecture
+Ce Wang, Hui Zhai, Yi-Zhuang You
+(Submitted on 30 Jan 2019 (v1), last revised 5 May 2019 (this version, v3))
+Can physical concepts and laws emerge in a neural network as it learns to predict the observation data of physical systems? As a benchmark and a proof-of-principle study of this possibility, here we show an introspective learning architecture that can automatically develop the concept of the quantum wave function and discover the Schrödinger equation from simulated experimental data of the potential-to-density mappings of a quantum particle. This introspective learning architecture contains a machine translator to perform the potential to density mapping, and a knowledge distiller auto-encoder to extract the essential information and its update law from the hidden states of the translator, which turns out to be the quantum wave function and the Schrödinger equation. We envision that our introspective learning architecture can enable machine learning to discover new physics in the future.
+
 Discovering physical concepts with neural networks
 
 https://dblp.org/pers/hd/i/Iten:Raban
