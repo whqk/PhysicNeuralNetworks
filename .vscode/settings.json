@@ -1,0 +1,7 @@
+{ 
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.fontSize": 18,
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "all"
+}
